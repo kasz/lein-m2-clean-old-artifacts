@@ -1,4 +1,4 @@
-(defproject lein-m2-clean-old-artifacts "0.1.0"
+(defproject lein-m2-clean-old-artifacts "0.2.0-SNAPSHOT"
   :description "Leiningen plugin intended for removing unused artifacts"
   :url "https://github.com/kasz/lein-m2-clean-old-artifacts"
   :dependencies [[org.clojure/clojure "1.8.0"]
