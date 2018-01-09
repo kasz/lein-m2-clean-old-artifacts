@@ -10,7 +10,7 @@ Since regular Clojure/Java development can accumulate quite a lot of those artif
 ## Installation
 
 
-Put `[lein-m2-clean-old-artifacts "0.1.0]` into the `:plugins` vector of your `:user` profile.
+Put `[lein-m2-clean-old-artifacts "0.1.0"]` into the `:plugins` vector of your `:user` profile.
 
 For instance:
 
